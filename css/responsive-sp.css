@@ -43,6 +43,7 @@ nav .material-icons {
 	font-size: 50px;
 	color: #000;
 	display:block;
+	cursor: pointer;
 }
 nav .menu {
 	/*位置*/
